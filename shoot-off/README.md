@@ -30,3 +30,4 @@ Checkout/sales:
 - confirmar un pedido -> PUT /api/checkout/confirm/{order_number}
 - rechazar un pedido -> PUT /api/checkout/reject/{order_number}
 - historial de pedidos de 1 usuario -> GET /api/checkout/sales/{id usuario}
+- ![ecommerce](https://user-images.githubusercontent.com/101586972/187287437-cb1cf074-7544-494e-a879-aa366e8657ce.png)
